@@ -12,7 +12,7 @@ Access the Complete Tutorial Guide
 
 For complete, step-by-step instructions to implement this design from scratch, please refer to the PDF document included in this repository:
 
-👉 DFX Guide for Versal.pdf
+DFX Guide for Versal.pdf
 
 The detailed guide covers:
 
@@ -30,6 +30,6 @@ Static Region: Constant processing foundation (Versal CIPS, NoC, Clocking, and r
 
 rp1 (Reconfigurable Partition): The target interchangeable block design container slot.
 
-rp1rm1 (RM 1): Returns 0xFEEDCODE at address 0x201_8000_0000.
+rp1rm1 (RM 1): Returns 0xFEEDC0DE at address 0x201_8000_0000.
 
 rp1rm2 (RM 2): Returns 0xFACEFEED at address 0x201_8001_0000.
