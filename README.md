@@ -32,4 +32,4 @@ rp1 (Reconfigurable Partition): The target interchangeable block design containe
 
 rp1rm1 (RM 1): Returns 0xFEEDC0DE at address 0x201_8000_0000.
 
-rp1rm2 (RM 2): Returns 0xFACEFEED at address 0x201_8001_0000.
+rp1rm2 (RM 2): Returns 0xFACEFEED at address 0x201_8000_0000.
